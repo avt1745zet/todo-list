@@ -1,0 +1,19 @@
+{
+	"name": "todo-list",
+	"version": "0.0.0",
+	"description": "Just a todo list.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/avt1745zet/todo-list.git"
+	},
+	"author": "YY",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/avt1745zet/todo-list/issues"
+	},
+	"homepage": "https://github.com/avt1745zet/todo-list#readme"
+}
