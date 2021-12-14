@@ -3,6 +3,7 @@
 	"version": "0.0.0",
 	"description": "Just a todo list.",
 	"private": true,
+	"homepage": "https://avt1745zet.github.io/todo-list",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.11.4",
 		"@testing-library/react": "^11.1.0",
